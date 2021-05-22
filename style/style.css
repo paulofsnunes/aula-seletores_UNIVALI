@@ -1,0 +1,142 @@
+body {
+  background-color: #80bafd;
+}
+
+h1 {
+  font-size: 50px;
+  background: -webkit-linear-gradient(left, blue 50%, red 50%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: flex;
+  justify-content: center;
+}
+
+h2 {
+  font-size: 40px;
+  background: -webkit-linear-gradient(left, blue 50%, red 50%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: flex;
+  justify-content: center;
+}
+
+section {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+p {
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.img-gremio {
+  margin-left: 30%;
+}
+
+.img-inter {
+  margin-right: 30%;
+}
+
+ul {
+  padding: 0;
+  width: 150px;
+  display: flex;
+  list-style: none;
+  justify-content: center;
+}
+
+.list-item {
+  width: 150px;
+  margin-bottom: 10px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.giuliano {
+  background: #000000;
+  border-radius: 20px;
+  color: #fff;
+  padding: 16px;
+  border: solid #000000 1px;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.giuliano:hover {
+  border: solid blue 1px;
+  background: blue;
+  border-radius: 20px;
+}
+
+.luan {
+  background: #000000;
+  border-radius: 20px;
+  color: #fff;
+  padding: 16px;
+  border: solid #000000 1px;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.luan:hover {
+  border: solid blue 1px;
+  background: blue;
+  border-radius: 20px;
+}
+
+.luan2 {
+  background: #000000;
+  border-radius: 20px;
+  color: #fff;
+  padding: 16px;
+  border: solid #000000 1px;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.luan2:hover {
+  border: solid blue 1px;
+  background: blue;
+  border-radius: 20px;
+}
+
+.fernandinho {
+  background: #000000;
+  border-radius: 20px;
+  color: #fff;
+  padding: 16px;
+  border: solid #000000 1px;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.fernandinho:hover {
+  border: solid blue 1px;
+  background: blue;
+  border-radius: 20px;
+}
+
+.rever {
+  background: #000000;
+  border-radius: 20px;
+  color: #fff;
+  padding: 16px;
+  border: solid #000000 1px;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.rever:hover {
+  border: solid red 1px;
+  background: red;
+  border-radius: 20px;
+}
